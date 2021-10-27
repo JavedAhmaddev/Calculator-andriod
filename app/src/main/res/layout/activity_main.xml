@@ -28,7 +28,6 @@
         android:id="@+id/button"
         android:layout_width="100dp"
         android:background="@drawable/btnback"
-
         android:layout_height="130dp"
         android:textSize="42sp"
         android:text="@string/divide"
